@@ -1,0 +1,45 @@
+body{
+    background: linear-gradient(165deg, goldenrod,  grey);
+    background-position: center;
+    background-attachment: fixed;
+}
+h1.name{
+    padding-top: 1rem;
+    text-align: center;
+    color: aliceblue;
+    text-shadow: 2px 4px 8px rgba(0, 0, 0, 0.8);
+    font-size: 55px;
+}
+h2{
+    text-align: center;
+    padding-bottom: 3rem;
+    color: aliceblue;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 2rem;
+    box-shadow: 30px 25px 10px 10px rgba(0, 0, 0, 0.5);
+    
+}
+div{
+    padding-top: 5rem;
+}
+p{
+    padding: 0rem 3rem 2rem 3rem;
+    font-size: 20px;
+    color: black;
+}
+h3{
+    padding-left: 3rem;
+    font-size: 25px;
+    color: rgb(18, 18, 99);
+}
+ul{
+    padding: 0rem 5rem 0rem 5rem;
+    color: rgb(120, 54, 0);
+    font-size: 20px;
+}
